@@ -47,7 +47,8 @@
         "id": 1,
         "nombre_finca": "Finca La Esperanza",
         "ubicacion_finca": "Km 10 Carretera Principal",
-        "correo": "campesino@example.com",
+        "correo": "campesino@gmail.com",
+        "password": "123",
         "telefono": "555-5678",
         "productos_disponibles": [
           {
