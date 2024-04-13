@@ -5,7 +5,7 @@
         "nombre": "Juan",
         "direccion_entrega": "Calle Principal 123",
         "correo": "juan@example.com",
-        "telefono": "555-12344",
+        "telefono": "555-1234",
         "productos_comprados": [
           {
             "id_producto": 101,
