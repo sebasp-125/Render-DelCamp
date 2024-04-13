@@ -1,1 +1,1 @@
-# Render_Guajolotas
+# Render the template DelCamp
