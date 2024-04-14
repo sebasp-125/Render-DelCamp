@@ -56,14 +56,14 @@
           "nombre_producto": "Tomate",
           "descripcion": "Tomates frescos",
           "precio": 1.5,
-          "foto": "https://example.com/tomate.jpg"
+          "foto": "https://images.unsplash.com/photo-1558818498-28c1e002b655?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id_producto": 102,
           "nombre_producto": "Lechuga",
           "descripcion": "Lechugas orgánicas",
           "precio": 2.0,
-          "foto": "https://example.com/lechuga.jpg"
+          "foto": "https://images.unsplash.com/photo-1556781366-336f8353ba7c?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ],
       "historial_ventas": [
@@ -100,14 +100,14 @@
           "nombre_producto": "Zanahoria",
           "descripcion": "Zanahorias frescas",
           "precio": 1.2,
-          "foto": "https://example.com/zanahoria.jpg"
+          "foto": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id_producto": 104,
           "nombre_producto": "Papa",
           "descripcion": "Papas orgánicas",
           "precio": 1.8,
-          "foto": "https://example.com/papa.jpg"
+          "foto": "https://media.istockphoto.com/id/531928692/es/foto/papas-en-un-mercado.jpg?s=2048x2048&w=is&k=20&c=e2lkx1l6_RLt-Cp49rJkaI-KC4dm56aiCU8P94aKX38="
         }
       ],
       "historial_ventas": [
