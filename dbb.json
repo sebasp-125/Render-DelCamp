@@ -1,92 +1,135 @@
 {
-    "clientes": [
-      {
-        "id": 1,
-        "nombre": "Juan",
-        "direccion_entrega": "Calle Principal 123",
-        "correo": "juan@example.com",
-        "telefono": "555-1234",
-        "productos_comprados": [
-          {
-            "id_producto": 101,
-            "nombre_producto": "Tomate",
-            "cantidad": 2,
-            "precio_unitario": 1.5
-          },
-          {
-            "id_producto": 102,
-            "nombre_producto": "Lechuga",
-            "cantidad": 1,
-            "precio_unitario": 2.0
-          }
-        ],
-        "historial_pedidos": [
-          {
-            "id_pedido": 101,
-            "fecha": "2024-04-13",
-            "productos": [
-              {
-                "id_producto": 101,
-                "nombre_producto": "Tomate",
-                "cantidad": 2,
-                "precio_unitario": 1.5
-              },
-              {
-                "id_producto": 102,
-                "nombre_producto": "Lechuga",
-                "cantidad": 1,
-                "precio_unitario": 2.0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "campesinos": [
-      {
-        "id": 1,
-        "nombre_finca": "Finca La Esperanza",
-        "ubicacion_finca": "Km 10 Carretera Principal",
-        "correo": "campesino@gmail.com",
-        "password": "123",
-        "telefono": "555-5678",
-        "productos_disponibles": [
-          {
-            "id_producto": 101,
-            "nombre_producto": "Tomate",
-            "descripcion": "Tomates frescos",
-            "precio": 1.5,
-            "foto": "https://example.com/tomate.jpg"
-          },
-          {
-            "id_producto": 102,
-            "nombre_producto": "Lechuga",
-            "descripcion": "Lechugas orgánicas",
-            "precio": 2.0,
-            "foto": "https://example.com/lechuga.jpg"
-          }
-        ],
-        "historial_ventas": [
-          {
-            "id_venta": 201,
-            "fecha": "2024-04-12",
-            "productos_vendidos": [
-              {
-                "id_producto": 101,
-                "nombre_producto": "Tomate",
-                "cantidad": 10,
-                "precio_unitario": 1.5
-              },
-              {
-                "id_producto": 102,
-                "nombre_producto": "Lechuga",
-                "cantidad": 5,
-                "precio_unitario": 2.0
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "direccion_entrega": "Calle Principal 123",
+      "correo": "juan@example.com",
+      "telefono": "555-1234",
+      "productos_comprados": [
+        {
+          "id_producto": 101,
+          "nombre_producto": "Tomate",
+          "cantidad": 2,
+          "precio_unitario": 1.5
+        },
+        {
+          "id_producto": 102,
+          "nombre_producto": "Lechuga",
+          "cantidad": 1,
+          "precio_unitario": 2.0
+        }
+      ],
+      "historial_pedidos": [
+        {
+          "id_pedido": 101,
+          "fecha": "2024-04-13",
+          "productos": [
+            {
+              "id_producto": 101,
+              "nombre_producto": "Tomate",
+              "cantidad": 2,
+              "precio_unitario": 1.5
+            },
+            {
+              "id_producto": 102,
+              "nombre_producto": "Lechuga",
+              "cantidad": 1,
+              "precio_unitario": 2.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "campesinos": [
+    {
+      "id": 1,
+      "nombre_finca": "Finca La Esperanza",
+      "ubicacion_finca": "Km 10 Carretera Principal",
+      "correo": "campesino@gmail.com",
+      "password": "123",
+      "telefono": "555-5678",
+      "productos_disponibles": [
+        {
+          "id_producto": 101,
+          "nombre_producto": "Tomate",
+          "descripcion": "Tomates frescos",
+          "precio": 1.5,
+          "foto": "https://example.com/tomate.jpg"
+        },
+        {
+          "id_producto": 102,
+          "nombre_producto": "Lechuga",
+          "descripcion": "Lechugas orgánicas",
+          "precio": 2.0,
+          "foto": "https://example.com/lechuga.jpg"
+        }
+      ],
+      "historial_ventas": [
+        {
+          "id_venta": 201,
+          "fecha": "2024-04-12",
+          "productos_vendidos": [
+            {
+              "id_producto": 101,
+              "nombre_producto": "Tomate",
+              "cantidad": 10,
+              "precio_unitario": 1.5
+            },
+            {
+              "id_producto": 102,
+              "nombre_producto": "Lechuga",
+              "cantidad": 5,
+              "precio_unitario": 2.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_finca": "Finca El Encanto",
+      "ubicacion_finca": "Km 15 Carretera Secundaria",
+      "correo": "encanto_farm@example.com",
+      "password": "password123",
+      "telefono": "555-9876",
+      "productos_disponibles": [
+        {
+          "id_producto": 103,
+          "nombre_producto": "Zanahoria",
+          "descripcion": "Zanahorias frescas",
+          "precio": 1.2,
+          "foto": "https://example.com/zanahoria.jpg"
+        },
+        {
+          "id_producto": 104,
+          "nombre_producto": "Papa",
+          "descripcion": "Papas orgánicas",
+          "precio": 1.8,
+          "foto": "https://example.com/papa.jpg"
+        }
+      ],
+      "historial_ventas": [
+        {
+          "id_venta": 202,
+          "fecha": "2024-04-11",
+          "productos_vendidos": [
+            {
+              "id_producto": 103,
+              "nombre_producto": "Zanahoria",
+              "cantidad": 15,
+              "precio_unitario": 1.2
+            },
+            {
+              "id_producto": 104,
+              "nombre_producto": "Papa",
+              "cantidad": 8,
+              "precio_unitario": 1.8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
