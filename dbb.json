@@ -148,21 +148,21 @@
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png"
     },
     {
-      "id_producto": 102,
+      "id_producto": 103,
       "nombre_producto": "Aguacate",
       "descripcion": "Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente rico, estos aguacates son el complemento ideal para tus ensaladas, tostadas y guacamoles",
       "precio": 8.500,
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png"
     },
     {
-      "id_producto": 102,
+      "id_producto": 104,
       "nombre_producto": "Tomate Verde",
       "descripcion": "Tomates verdes frescos y crujientes, perfectos para agregar un toque de color y sabor a tus ensaladas.",
       "precio": 2.500,
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png"
     },
     {
-      "id_producto": 102,
+      "id_producto": 105,
       "nombre_producto": "Penca",
       "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos. ",
       "precio": 2.500,
