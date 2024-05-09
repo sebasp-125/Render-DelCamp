@@ -55,14 +55,14 @@
           "id_producto": 101,
           "nombre_producto": "Tomate",
           "descripcion": "Tomates frescos",
-          "precio": 2.500,
+          "precio": 2.5,
           "foto": "https://images.unsplash.com/photo-1558818498-28c1e002b655?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id_producto": 102,
           "nombre_producto": "Lechuga",
           "descripcion": "Lechugas orgánicas",
-          "precio": 2.500,
+          "precio": 2.5,
           "foto": "https://images.unsplash.com/photo-1556781366-336f8353ba7c?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ],
@@ -75,13 +75,13 @@
               "id_producto": 101,
               "nombre_producto": "Tomate",
               "cantidad": 10,
-              "precio_unitario":2.500
+              "precio_unitario": 2.5
             },
             {
               "id_producto": 102,
               "nombre_producto": "Lechuga",
               "cantidad": 5,
-              "precio_unitario": 2.500
+              "precio_unitario": 2.5
             }
           ]
         }
@@ -99,14 +99,14 @@
           "id_producto": 103,
           "nombre_producto": "Tomates",
           "descripcion": "Zanahorias frescas",
-          "precio": 2.500,
+          "precio": 2.5,
           "foto": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id_producto": 104,
           "nombre_producto": "Papa",
           "descripcion": "Papas orgánicas",
-          "precio": 2.500,
+          "precio": 2.5,
           "foto": "https://media.istockphoto.com/id/531928692/es/foto/papas-en-un-mercado.jpg?s=2048x2048&w=is&k=20&c=e2lkx1l6_RLt-Cp49rJkaI-KC4dm56aiCU8P94aKX38="
         }
       ],
@@ -138,35 +138,35 @@
       "nombre_producto": "Tomate",
       "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad. ¡Una explosión de frescura en cada bocado!",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257638/DelCamp/image_2_lwuvxn.png",
-      "precio": 3.500Kg
+      "precio": 3.5
     },
     {
       "id": 102,
       "nombre_producto": "Limon",
       "descripcion": "Limones frescos y ácidos, perfectos para dar un toque vibrante a tus platos y bebidas. ¡Exprime el sabor con cada jugoso bocado!",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png",
-      "precio":"2.500Kg"
+      "precio": 2.5
     },
     {
       "id": 103,
       "nombre_producto": "Aguacate",
       "descripcion": "Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente rico, estos aguacates son el complemento ideal para tus ensaladas, tostadas y guacamoles",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png",
-      "precio": "5.000Kg"
+      "precio": 5
     },
     {
       "id": 104,
       "nombre_producto": "Tomate Verde",
       "descripcion": "Tomates verdes frescos y crujientes, perfectos para agregar un toque de color y sabor a tus ensaladas.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png",
-      "precio": "2.600Kg"
+      "precio": 2.6
     },
     {
       "id": 105,
       "nombre_producto": "Penca",
       "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos. ",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
-      "precio": "2.600Kg"
+      "precio": 2.6
     }
   ]
 }
