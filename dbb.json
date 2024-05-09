@@ -137,31 +137,36 @@
       "id": 101,
       "nombre_producto": "Tomate",
       "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad. ¡Una explosión de frescura en cada bocado!",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257638/DelCamp/image_2_lwuvxn.png"
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257638/DelCamp/image_2_lwuvxn.png",
+      "precio": 3.500Kg
     },
     {
       "id": 102,
       "nombre_producto": "Limon",
       "descripcion": "Limones frescos y ácidos, perfectos para dar un toque vibrante a tus platos y bebidas. ¡Exprime el sabor con cada jugoso bocado!",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png"
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png",
+      "precio": 2.500Kg
     },
     {
       "id": 103,
       "nombre_producto": "Aguacate",
       "descripcion": "Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente rico, estos aguacates son el complemento ideal para tus ensaladas, tostadas y guacamoles",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png"
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png",
+      "precio": 5.000Kg
     },
     {
       "id": 104,
       "nombre_producto": "Tomate Verde",
       "descripcion": "Tomates verdes frescos y crujientes, perfectos para agregar un toque de color y sabor a tus ensaladas.",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png"
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png",
+      "precio": 2.600Kg
     },
     {
       "id": 105,
       "nombre_producto": "Penca",
       "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos. ",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png"
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
+      "precio": 2.500
     }
   ]
 }
