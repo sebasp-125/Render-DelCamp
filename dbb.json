@@ -136,37 +136,71 @@
     {
       "id": 101,
       "nombre_producto": "Tomate",
-      "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad. ¡Una explosión de frescura en cada bocado!",
+      "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad. ¡Una explosión de frescura en cada bocado",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257638/DelCamp/image_2_lwuvxn.png",
-      "precio": 3.5
+      "precio": 3.500
     },
     {
       "id": 102,
       "nombre_producto": "Limon",
       "descripcion": "Limones frescos y ácidos, perfectos para dar un toque vibrante a tus platos y bebidas. ¡Exprime el sabor con cada jugoso bocado!",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png",
-      "precio": 2.5
+      "precio": 2.500
     },
     {
       "id": 103,
       "nombre_producto": "Aguacate",
-      "descripcion": "Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente rico, estos aguacates son el complemento ideal para tus ensaladas, tostadas y guacamoles",
+      "descripcion": " Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente ric",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png",
-      "precio": 5
+      "precio": 5.000
     },
     {
       "id": 104,
       "nombre_producto": "Tomate Verde",
       "descripcion": "Tomates verdes frescos y crujientes, perfectos para agregar un toque de color y sabor a tus ensaladas.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png",
-      "precio": 2.6
+      "precio": 2.600
     },
     {
       "id": 105,
       "nombre_producto": "Penca",
-      "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos. ",
+      "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
-      "precio": 2.6
+      "precio": 2.600
+    },
+    {
+      "id": 105,
+      "nombre_producto": "Yuca",
+      "descripcion": "Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715313868/DelCamp/yuca_yqp4xk.jpg",
+      "precio": 2.600
+    },
+    {
+      "id": 105,
+      "nombre_producto": "Sandia",
+      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
+      "precio": 2.600
+    },
+    {
+      "id": 105,
+      "nombre_producto": "Platano Verde",
+      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
+      "precio": 2.600
+    },
+    {
+      "id": 105,
+      "nombre_producto": "Zanahoria",
+      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas",
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715313872/DelCamp/zanahorias_ixifyt.jpg",
+      "precio": 2.600
+    },
+    {
+      "id": 105,
+      "nombre_producto": "Piña",
+      "descripcion": "Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "precio": 2.600
     }
   ]
 }
