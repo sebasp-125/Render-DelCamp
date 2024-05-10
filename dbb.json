@@ -54,7 +54,7 @@
         {
           "id_producto": 101,
           "nombre_producto": "Tomate",
-          "descripcion": "Tomates frescos",
+          "descripcion": "Tomates frescos y jugosos",
           "precio": 2.5,
           "foto": "https://images.unsplash.com/photo-1558818498-28c1e002b655?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
@@ -136,71 +136,72 @@
     {
       "id": 101,
       "nombre_producto": "Tomate",
-      "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad. ¡Una explosión de frescura en cada bocado",
+      "descripcion": "Tomates frescos y jugosos, cultivados con cuidado para ofrecerte lo mejor en sabor y calidad.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257638/DelCamp/image_2_lwuvxn.png",
       "precio": 3.500
     },
     {
       "id": 102,
       "nombre_producto": "Limon",
-      "descripcion": "Limones frescos y ácidos, perfectos para dar un toque vibrante a tus platos y bebidas. ¡Exprime el sabor con cada jugoso bocado!",
+      "descripcion": "Limones frescos y ácidos, perfectos para dar un toque vibrante a tus platos y bebidas.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257639/DelCamp/Product_tgnjq9.png",
       "precio": 2.500
     },
     {
       "id": 103,
       "nombre_producto": "Aguacate",
-      "descripcion": " Descubre la cremosidad y el sabor único de nuestros aguacates frescos. Con su textura suave y su sabor deliciosamente ric",
+      "descripcion": "Descubre la cremosidad y el sabor único de nuestros aguacates frescos.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_3_l9cptc.png",
-      "precio": 5.000
+      "precio":23.000
     },
     {
       "id": 104,
       "nombre_producto": "Tomate Verde",
       "descripcion": "Tomates verdes frescos y crujientes, perfectos para agregar un toque de color y sabor a tus ensaladas.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257636/DelCamp/image_5_pm3fop.png",
-      "precio": 2.600
+      "precio": 87.600
     },
     {
       "id": 105,
       "nombre_producto": "Penca",
-      "descripcion": "¡Experimenta la auténtica tradición mexicana con nuestras pencas frescas! Estas hojas de agave ofrecen un sabor terroso y una textura única que complementa perfectamente tus platillos favoritos.",
+      "descripcion": "Experimenta la auténtica tradición mexicana con nuestras pencas frescas.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
-      "precio": 2.600
+      "precio": 65.600
     },
     {
-      "id": 105,
+      "id": 106,
       "nombre_producto": "Yuca",
-      "descripcion": "Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "descripcion": "Descubre la frescura tropical con nuestra yuca de calidad premium.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715313868/DelCamp/yuca_yqp4xk.jpg",
-      "precio": 2.600
+      "precio": 23.600
     },
     {
-      "id": 105,
+      "id": 107,
       "nombre_producto": "Sandia",
-      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
+      "descripcion": "Sandías frescas y jugosas, perfectas para disfrutar en días calurosos.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
-      "precio": 2.600
+      "precio": 432.600
     },
     {
-      "id": 105,
-      "nombre_producto": "Platano Verde",
-      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
-      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1714257637/DelCamp/image_4_evscpn.png",
-      "precio": 2.600
+      "id": 108,
+      "nombre_producto": "Plátano Verde",
+      "descripcion": "Plátanos verdes frescos y deliciosos, ideales para cocinar o comer crudos.",
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715315100/DelCamp/platano_kjoty7.jpg",
+      "precio": 34.600
     },
     {
-      "id": 105,
+      "id": 109,
       "nombre_producto": "Zanahoria",
-      "descripcion": " Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas",
+      "descripcion": "Zanahorias frescas y crujientes, excelentes para ensaladas y guisos.",
       "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715313872/DelCamp/zanahorias_ixifyt.jpg",
-      "precio": 2.600
+      "precio": 6.600
     },
     {
-      "id": 105,
+      "id": 110,
       "nombre_producto": "Piña",
-      "descripcion": "Descubre la frescura tropical con nuestra yuca de calidad premium! Con su piel rugosa y su interior almidonado, nuestra yuca es perfecta para una amplia variedad de recetas.",
-      "precio": 2.600
+      "descripcion": "Piñas frescas y jugosas, una delicia tropical para disfrutar en cualquier momento.",
+      "precio": 25.600,
+      "foto": "https://res.cloudinary.com/dbwgsrqgm/image/upload/v1715314524/DelCamp/pi%C3%B1a_hok4lc.jpg"
     }
   ]
 }
